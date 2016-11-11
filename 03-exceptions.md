@@ -26,7 +26,7 @@ def mean(num_list):
 ~~~
 
 Once an exception is raised, it will be passed upward in the program scope.
-An exception be used to trigger additional error messages or an alternative
+An exception can be used to trigger additional error messages or an alternative
 behavior. rather than immediately halting code
 execution, the exception can be 'caught' upstream with a try-except block.
 When wrapped in a try-except block, the exception can be intercepted before it reaches
